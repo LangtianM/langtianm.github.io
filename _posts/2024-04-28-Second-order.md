@@ -2,7 +2,7 @@
 layout: post
 title: Second-order inquiries on statistics
 date: 2024-11-09
-tags: Philosophy, Statistics
+tags: Philosophy Statistics
 categories: Thoughts
 citation: true
 ---

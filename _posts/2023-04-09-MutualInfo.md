@@ -2,7 +2,7 @@
 layout: post
 title: A Note on Mutual Information 
 date: 2023-04-09
-tags: Statistics, Information Theory, Machine Learning 
+tags: Statistics Information_Theory Machine_Learning 
 categories: Notes
 citation: true
 ---
