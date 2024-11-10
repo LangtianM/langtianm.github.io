@@ -1,6 +1,7 @@
 ---
 layout: page
-title: miscellaneous
+title: Miscellaneous
+nav_order: 4
 permalink: /miscellaneous/
 nav: true
 ---
