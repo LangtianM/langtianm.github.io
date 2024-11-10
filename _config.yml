@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Langtian's Blog # blog_name will be displayed in your blog page
-blog_description: Tiny insights encountered during my study and research # blog_description will be displayed in your blog page
+blog_description: Insights encountered during my study and research # blog_description will be displayed in your blog page
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
