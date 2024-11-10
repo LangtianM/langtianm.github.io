@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second-order inquiries on statistics
+title: Second-order Inquiries on Statistics
 date: 2024-11-09
 tags: Philosophy Statistics
 categories: Thoughts
