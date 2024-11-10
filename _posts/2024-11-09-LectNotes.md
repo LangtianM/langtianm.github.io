@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lecture Notes
-date: 2023-04-09
+date: 2024-11-09
 tags: Statistics Mathematics
 categories: Notes
 citation: true
