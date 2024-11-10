@@ -15,5 +15,5 @@ I would like to share some of my handwritten lecture notes on different subjects
 
 
 # Mathematics
-- [Real Analysis](https://langtianm.github.io/assets/documents/Real_Analysis.pdf) (@SUSTech, 2022Fall)
+- [Real Analysis](https://langtianm.github.io/assets/documents/Real_Analysis.pdf) (@SUSTech, 2022Fall, with mindmap)
 - [Linear Algebra Done Right](https://langtianm.github.io/assets/documents/Done_Right_Mindmap.pdf) (@SUSTech, 2021Fall, mindmap only, in Chinese)
