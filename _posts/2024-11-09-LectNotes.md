@@ -10,7 +10,7 @@ citation: true
 I would like to share some of my handwritten lecture notes on different subjects here.
 
 # Statistics
-- [Mathematical Statistics](https://langtianm.github.io/assets/documents/Math_Stat) (STAT709@UW-Madison, 2024Fall, TBC)
+- [Mathematical Statistics](https://langtianm.github.io/assets/documents/Math_Stat.pdf) (STAT709@UW-Madison, 2024Fall, TBC)
 - [Time Series Analysis](https://langtianm.github.io/assets/documents/TSA.pdf) (@SUSTech, 2023Spring, with mindmap)
 
 
