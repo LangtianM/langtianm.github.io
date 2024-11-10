@@ -72,3 +72,8 @@ Thanks for visiting this page! I would like to share some of my interesting non-
     <img src="../assets/img/photography/Others/DSC_2419.JPG" alt="Others 5" style="height: 200px;"/>
     <img src="../assets/img/photography/Others/DSC_3168.jpg" alt="Others 6" style="height: 200px;"/>
 </div>
+
+# Literature
+I wrote prose and poetry in Chinese. Here's the QR code to my WeChat official account where I post my works.
+
+![WeChat QR Code](../assets/img/qrcode.bmp)
