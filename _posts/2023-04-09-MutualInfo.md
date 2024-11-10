@@ -12,7 +12,8 @@ citation: true
 
 
 ## Kullback–Leibler Divergence
-Notation: $\log$ refers to $\log_{2}$.
+
+> Notation: $\log$ refers to $\log_{2}$.
 
 A type of statistical distance to measure how one probability distribution $P$ is different from a second, reference probability distribution $Q$, denoted by $D_{KL}(P \mid\mid Q)$.
 
