@@ -6,8 +6,13 @@
         tex: {
           tags: 'ams',
           inlineMath: [['$', '$'], ['\\(', '\\)']],
-          displayMath: [['$$', '$$'], ['\\[', '\\]']]
+          displayMath: [['$$', '$$'], ['\\[', '\\]']],
+          processEscapes: true,
+          processEnvironments: true
         },
+        options: {
+          displayAlign: 'center' 
+        }
       };
     </script>
     <script
